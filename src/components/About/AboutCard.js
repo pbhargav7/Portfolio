@@ -19,7 +19,7 @@ function AboutCard() {
               <br />
               📌 <b>Technical Proficiency:</b><br/>
                   <p style={{fontSize: "0.9em"}}>
-                  ✦ Languages: Java, Python, C, C++, PHP, CSS, SQL, XML, HTML, JavaScript, TypeScript, PowerShell Scripting<br/>
+                  ✦ Languages: Java 8+, Python, C, C++, HTML5, CSS3, PHP, SQL, XML, JavaScript, TypeScript, PowerShell Scriptingg<br/>
                   ✦ Methodologies & Frameworks: Agile, Waterfall, DevOps, OOPs, Scrum, Spring, JDBC, ReactJS, RESTful APIs<br/>
                   ✦ Tools & OS: Kubernetes, Docker, Jenkins, JIRA, Bitbucket, Eclipse IDE, Git, Zos IBM IDE, Windows, Linux/Unix<br/>
                   ✦ Cloud Platforms & Databases: AWS, GCP, DB2, PostgreSQL, MySQL, NoSQL, MongoDB
