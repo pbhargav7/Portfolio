@@ -10,7 +10,7 @@ Proficient in Java and Java Frameworks, with hands-on experience in AWS services
 I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new skills, technologies, and roles.
 
 📌 Technical Proficiency:
-- Languages: Java, Python, C, C++, PHP, CSS, SQL, XML, HTML, JavaScript, TypeScript, PowerShell Scripting
+- Languages: Java 8+, Python, C, C++, HTML5, CSS3, PHP, SQL, XML, JavaScript, TypeScript, PowerShell Scripting
 - Methodologies & Frameworks: Agile, Waterfall, DevOps, OOPs, Scrum, Spring, JDBC, ReactJS, RESTful APIs
 - Tools & OS: Kubernetes, Docker, Jenkins, JIRA, Bitbucket, Eclipse IDE, Git, Zos IBM IDE, Windows, Linux/Unix
 - Cloud Platforms & Databases: AWS, GCP, DB2, PostgreSQL, MySQL, NoSQL, MongoDB
