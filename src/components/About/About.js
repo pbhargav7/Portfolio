@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/2bd.png";
+import laptopImg from "../../Assets/1bdgw.png";
 import Toolstack from "./Toolstack";
 
 function About() {
@@ -22,13 +22,13 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.0em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
+               <strong className="purple">About</strong>
             </h1>
             <Aboutcard />
           </Col>
           <Col
             md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            style={{ paddingTop: "200px", paddingBottom: "50px" }}
             className="about-img"
           >
             <img src={laptopImg} alt="about" className="img-fluid" />
