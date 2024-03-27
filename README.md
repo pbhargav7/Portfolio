@@ -25,7 +25,7 @@ Always open to connecting! Whether it's discussing trends, exploring collaborati
 
 - 🌱  Currently enhancing my engineering skills
 - 🌍  Based in Pennsylvania, United States
-- 📨  CV - [Bhargav Patel](https://rb.gy/sh1xyd) 
+- 📨  CV - [Bhargav Patel](https://rb.gy/gudqj5 ) 
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
 - 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
