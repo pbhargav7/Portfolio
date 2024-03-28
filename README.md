@@ -29,7 +29,7 @@ Always open to connecting! Whether it's discussing trends, exploring collaborati
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
 - 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
-- 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer.
+- 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer
 
 ### Skills
 
