@@ -20,7 +20,7 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
 The thrill of solving real-world problems with technology drives me. I believe in the power of software to transform industries and improve lives, and I'm eager to contribute to projects that align with these values.
 
 🌐 Let's Connect:
-Always open to connecting! Whether it's discussing trends, exploring collaborations, or just saying hello, feel free to reach out! 
+Always open to connecting! Whether it's discussing trends, exploring collaborations, or just saying hello, feel free to reach out!
 
 
 - 🌱  Currently enhancing my engineering skills
