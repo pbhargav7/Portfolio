@@ -31,7 +31,7 @@ Always open to connecting! Whether it's discussing trends, exploring collaborati
 - 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
 - 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer
 
-### Skills
+### Skills 
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
