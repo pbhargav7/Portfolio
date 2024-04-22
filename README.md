@@ -25,13 +25,13 @@ Always open to connecting! Whether it's discussing trends, exploring collaborati
 
 - 🌱  Currently enhancing my engineering skills
 - 🌍  Based in Pennsylvania, United States
-- 📨  CV - [Bhargav Patel](https://rb.gy/gudqj5 ) 
+- 📨  CV - [Bhargav Patel](https://rb.gy/gudqj5) 
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
 - 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
-- 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer
+- 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer.
 
-### Skills  
+### Skills
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -52,9 +52,10 @@ Always open to connecting! Whether it's discussing trends, exploring collaborati
     <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-### Socials
+### Socials 
 
 <p align="left"> 
     <a href="https://www.github.com/pbhargav7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/bhargavpatel07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  </p>
+
