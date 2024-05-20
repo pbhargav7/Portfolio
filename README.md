@@ -60,5 +60,3 @@ Always open to connecting! Whether it's discussing trends, exploring collaborati
  </p>
 
 
-
-
