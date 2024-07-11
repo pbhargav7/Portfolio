@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hey there&nbsp;<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋🏻" height="45" width="45" />, I'm Bhargav Patel 🧑🏻‍💻 </h1> -->
-Live Demo: [Bhargav Patel](https://pbhargav7.vercel.app/)
+👉 Live Demo: [Bhargav Patel](https://pbhargav7.vercel.app/about)
 <br>
 <h1 align="center"> Hey there! 👋, I'm Bhargav Patel</h1>
 <h3 align="center">Dedicated Software Engineer, Building the Future of Tech 👨‍💻</h3>
@@ -37,7 +37,7 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
 - 📨 CV - [Bhargav Patel](https://rb.gy/gudqj5)
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
-- 🌍 See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
+- 🌍 See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/about)
 - 🤝 I'm open to collaborating on exciting projects as a Full Stack Developer.
   <br>
 
