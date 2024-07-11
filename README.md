@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hey there&nbsp;<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋🏻" height="45" width="45" />, I'm Bhargav Patel 🧑🏻‍💻 </h1> -->
-<h3 align="center"> Live Demo - CV - [Bhargav Patel](https://rb.gy/gudqj5) </h3>
+Live Demo: [Bhargav Patel](https://pbhargav7.vercel.app/)
 <br>
 <h1 align="center"> Hey there! 👋, I'm Bhargav Patel</h1>
 <h3 align="center">Dedicated Software Engineer, Building the Future of Tech 👨‍💻</h3>
@@ -10,32 +10,36 @@
 <br>
 
 <b>🚀 Skills & Expertise:</b>
+
 <p>Proficient in Java and Java Frameworks, with hands-on experience in AWS services like S3, EC2, and Lambda. My technical proficiency includes Java, Python, C++, React.js, Spring Boot, and more.
 I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new skills, technologies, and roles.</p>
 <br>
 
 <b>📌 Technical Proficiency:</b>
+
 - Languages: Java 8+, Python, C, C++, HTML5, CSS3, PHP, SQL, XML, JavaScript, TypeScript, PowerShell Scripting
 - Methodologies & Frameworks: Agile, Waterfall, DevOps, OOPs, Scrum, Spring, JDBC, ReactJS, RESTful APIs
 - Tools & OS: Kubernetes, Docker, Jenkins, JIRA, Bitbucket, Eclipse IDE, Git, Zos IBM IDE, Windows, Linux/Unix
 - Cloud Platforms & Databases: AWS, GCP, DB2, PostgreSQL, MySQL, NoSQL, MongoDB</p>
-<br>
+  <br>
 
 <b>🌟 What Drives Me:</b>
+
 <p>The thrill of solving real-world problems with technology drives me. I believe in the power of software to transform industries and improve lives, and I'm eager to contribute to projects that align with these values.</p>
 <br>
 
 <b>🌐 Let's Connect:</b>
+
 <p>Always open to connecting! Whether it's discussing trends, exploring collaborations, or just saying hello, feel free to reach out! </p>
 
-- 🌱  Currently enhancing my engineering skills
-- 🌍  Based in Pennsylvania, United States
-- 📨  CV - [Bhargav Patel](https://rb.gy/gudqj5) 
+- 🌱 Currently enhancing my engineering skills
+- 🌍 Based in Pennsylvania, United States
+- 📨 CV - [Bhargav Patel](https://rb.gy/gudqj5)
 - ✉️  You can contact me at [bhargavptl77@gmail.com](mailto:bhargavptl77@gmail.com)
-- 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
-- 🌍  See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
-- 🤝  I'm open to collaborating on exciting projects as a Full Stack Developer.
-<br>
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhargavpatel07/)
+- 🌍 See my portfolio at [Bhargav Patel](https://pbhargav7.vercel.app/)
+- 🤝 I'm open to collaborating on exciting projects as a Full Stack Developer.
+  <br>
 
 <b>Skills</b>
 
@@ -60,11 +64,8 @@ I'm a skilled problem-solver adept at troubleshooting, swiftly adapting to new s
 <br>
 
 <b>Socials</b>
+
 <p align="left"> 
     <a href="https://www.github.com/pbhargav7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
     <a href="https://www.linkedin.com/in/bhargavpatel07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  </p>
-
-
-
-
