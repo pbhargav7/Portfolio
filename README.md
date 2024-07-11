@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hey there&nbsp;<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋🏻" height="45" width="45" />, I'm Bhargav Patel 🧑🏻‍💻 </h1> -->
-<h3 align="center"> Live Demo - [[Bhargav Patel](https://pbhargav7.vercel.app/about)] </h3>
+<h3 align="center"> Live Demo - CV - [Bhargav Patel](https://rb.gy/gudqj5) </h3>
 <br>
 <h1 align="center"> Hey there! 👋, I'm Bhargav Patel</h1>
 <h3 align="center">Dedicated Software Engineer, Building the Future of Tech 👨‍💻</h3>
