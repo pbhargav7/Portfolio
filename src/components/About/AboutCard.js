@@ -35,7 +35,7 @@ function AboutCard() {
               LinkedIn or email at bhargavptl77@gmail.com. 
               <br />
             </p>
-          <p style={{ color: "rgb(155 126 172)" }}>
+          <p style={{ color: "rgba(64,122,254,255)" }}>
             "The best way to predict the future is to create it."
           </p>
           <footer className="blockquote-footer">Bhargav</footer>
